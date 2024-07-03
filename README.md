@@ -14,7 +14,7 @@
 - Sitio web personal [enlace](https://developers.google.com/profile/u/FlavioCesar?hl=es-419)
 - Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum](https://read.cv/0xabdulkhalid)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -58,7 +58,6 @@
 </p>
 
 <br>
-<br>
 
 -----
 
@@ -78,12 +77,9 @@
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Contactame..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
